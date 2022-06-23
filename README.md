@@ -35,7 +35,7 @@ $ sudo mysql -u root
 
 ```
 >mysql source wallapop.sql
->use wallapop
+>mysql USE wallapop;
 ```
 
 ## Activities
