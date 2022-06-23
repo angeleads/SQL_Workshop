@@ -18,6 +18,12 @@ $ mysql --version
 ``` 
 $ sudo mysql_secure_installation
 ```
+### Clone repository
+
+```
+$ git clone git@github.com:angeleads/SQL_Workshop.git
+```
+
 ### Launch your server
 ``` 
 $ sudo mysql -u root
@@ -25,10 +31,11 @@ $ sudo mysql -u root
 
 ## WELCOME IN THE SQL WORLD
 
-### Clone repository
+### Import wallapop sql script into your server
 
 ```
-$ git clone git@github.com:angeleads/SQL_Workshop.git
+>mysql source wallapop.sql
+>use wallapop
 ```
 
 ## Activities
