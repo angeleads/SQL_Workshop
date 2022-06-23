@@ -1,5 +1,37 @@
 # SQL_Workshop
 
+## INSTALLATION:
+
+### Upgrade
+
+``` 
+$ sudo apt-get update
+$ sudo apt upgrade
+```
+### Install mysql
+``` 
+$ sudo apt install mysql-server
+$ mysql --version
+```
+### Configuration of you server
+
+``` 
+$ sudo mysql_secure_installation
+```
+### Launch your server
+``` 
+$ sudo mysql -u root
+```
+
+## WELCOME IN THE SQL WORLD
+
+### Clone repository
+
+```
+$ git clone git@github.com:angeleads/SQL_Workshop.git
+```
+
+## Activities
 exercise 01:
 
 Write a query that displays the list of all the tables in the database
