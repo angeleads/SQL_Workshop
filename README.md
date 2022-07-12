@@ -40,7 +40,6 @@ $ sudo mysql -u root
 
 ## Activities
 exercise 01:
-
 Write a query that displays the list of all the tables in the database
 
 exercise 02:
